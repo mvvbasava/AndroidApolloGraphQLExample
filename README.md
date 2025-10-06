@@ -2,6 +2,10 @@
 
 A modern Android application demonstrating GraphQL integration using Apollo Client, Jetpack Compose, and MVVM architecture pattern.
 
+## Main Screen ScreenShot
+
+<img width="468" height="1001" alt="image" src="https://github.com/user-attachments/assets/fb29cf22-b638-4ba1-b855-7c8989ae30e0" />
+
 ## Features
 
 - **GraphQL Integration**: Uses Apollo Client for efficient data fetching from the Rick and Morty API
