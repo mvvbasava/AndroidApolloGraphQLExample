@@ -1,6 +1,6 @@
 # Android Apollo GraphQL Example
 
-A modern Android application demonstrating GraphQL integration using Apollo Client, Jetpack Compose, and MVVM architecture pattern.
+- A modern Android application demonstrating GraphQL integration using Apollo Client, Jetpack Compose, and MVVM architecture pattern.
 
 ## Main Screen ScreenShot
 
